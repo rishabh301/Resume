@@ -1,2 +1,2 @@
 # Resume
-resume_portfolio 
+I am a B.Tech Computer Science student at VIT Bhopal (CGPA 8.88) with a strong background in data analytics, machine learning, and software development. During my internship at The PreProd Corp, I built a data and ML pipeline for food demand forecasting using SQL, Kafka, and ML models. My key projects include Food Demand Forecasting, a Chatbot-based ticketing system, and a Zomato Sales Dashboard using Power BI. I have solved 800+ coding problems, earned a 5-star rating in C++ on HackerRank, and hold certifications in AI/ML and Data Science. Additionally, I won a top quiz competition by the Indian Air Force and participated in Flipkart Grid.
